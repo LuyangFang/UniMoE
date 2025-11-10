@@ -102,6 +102,13 @@ A structured scoring rubric was developed to encompass five response dimensions,
 This project is released under the MIT License.
 
 
+## Citation
+
+If you find this repository or the associated work helpful, please consider citing our paper:
+
+Fang, L., Wang, T., Ma, P., Zhai, X. Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts. EAAAI (2026).
+
+
 ## References
 
 [1] Harris, C.J., Krajcik, J.S., Pellegrino, J.W.: *Creating and using instructionally supportive assessments in NGSS classrooms*. NSTA Press (2024)
