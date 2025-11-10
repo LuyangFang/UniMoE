@@ -62,7 +62,7 @@ The assessment tasks were sourced from the Next Generation Science Assessment [1
 
 Automated reports derived from rubric-based scoring highlight topics where students may require additional support. For instance, in one task, students were asked to identify gases in an experiment by comparing their properties to those documented in a data table (refer to the figure above). Successfully completing this task required understanding the structure and properties of matter, chemical reactions, and the ability to plan investigations while recognizing patterns in the data.
 
-A structured scoring rubric was developed to encompass five response dimensions, corresponding to the science learning framework: SEP+DCI, SEP+CCC, SEP+CCC, DCI, and DCI. This rubric was designed to capture multi-dimensional cognitive processes [5]. The table below outlines the specific criteria for each category. Students were assessed simultaneously across multiple perspectives, receiving scores that reflected their understanding of DCIs, CCCs, and SEPs as aligned with the rubric. To enhance the validity of these multi-perspective rubrics, the research team collaborated with experienced science educators.
+A structured scoring rubric was developed to encompass five response dimensions, corresponding to the science learning framework: SEP+DCI, SEP+CCC, SEP+CCC, DCI, and DCI. This rubric was designed to capture multi-dimensional cognitive processes [3]. The table below outlines the specific criteria for each category. Students were assessed simultaneously across multiple perspectives, receiving scores that reflected their understanding of DCIs, CCCs, and SEPs as aligned with the rubric. To enhance the validity of these multi-perspective rubrics, the research team collaborated with experienced science educators.
 
 ### Scoring Rubric for Task: Gas-Filled Balloons (Task 5)
 
@@ -91,6 +91,20 @@ A structured scoring rubric was developed to encompass five response dimensions,
 ---
 
 
+## License
+
+This project is released under the MIT License.
+
+
+## References
+
+[1] Harris, C.J., Krajcik, J.S., Pellegrino, J.W.: *Creating and using instructionally supportive assessments in NGSS classrooms*. NSTA Press (2024)
+
+
+[2] PASTA, P.T.: *Supporting instructional decision making: Potential of an auto-matically scored three-dimensional assessment system.* (November, 2023)
+
+
+[3] He, P., Shin, N., Zhai, X., Krajcik, J.: *Guiding teacher use of artificial intelligence-based knowledge-in-use assessment to improve instructional decisions: A conceptual framework.* In: Zhai, X., Krajcik, J. (eds.) Uses of Artificial Intelligence in STEM Education, Oxford University Press (2024)
 
 
 
