@@ -69,7 +69,7 @@ Automated reports derived from rubric-based scoring highlight topics where stude
 
 A structured scoring rubric was developed to encompass five response dimensions, corresponding to the science learning framework: SEP+DCI, SEP+CCC, SEP+CCC, DCI, and DCI. This rubric was designed to capture multi-dimensional cognitive processes [3]. The table below outlines the specific criteria for each category. Students were assessed simultaneously across multiple perspectives, receiving scores that reflected their understanding of DCIs, CCCs, and SEPs as aligned with the rubric. To enhance the validity of these multi-perspective rubrics, the research team collaborated with experienced science educators.
 
-### Scoring Rubric for Task: Gas-Filled Balloons (Task 5)
+### Scoring Rubric for Task: Gas-Filled Balloons (Task 3)
 
 | ID  | Perspective | Description |
 |-----|-------------|-------------|
