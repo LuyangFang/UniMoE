@@ -80,13 +80,13 @@ A structured scoring rubric was developed to encompass five response dimensions,
 |--------|-------------------------------|------------|----------------|---------------|
 | Task 1 | Anna vs Carla                 | 4          | 955            | 239           |
 | Task 2 | Breaking Down Hydrogen Peroxide | 4        | 666            | 167           |
-| Task 3 | Carlos Javier Atomic Model    | 5          | 956            | 240           |
-| Task 4 | Dry Ice Model                 | 3          | 1111           | 278           |
-| Task 5 | Gas Filled Balloon            | 3          | 958            | 240           |
-| Task 6 | Layers in Test Tube           | 10         | 956            | 240           |
-| Task 7 | Model For Making Water        | 5          | 836            | 210           |
-| Task 8 | Nami Careful Experiment       | 6          | 653            | 164           |
-| Task 9 | Natural Sugar                 | 5          | 956            | 239           |
+| Task 3 | Gas Filled Balloon            | 3          | 958            | 240           |
+| Task 4 | Layers in Test Tube           | 10         | 956            | 240           |
+| Task 5 | Model For Making Water        | 5          | 836            | 210           |
+| Task 6 | Nami Careful Experiment       | 6          | 653            | 164           |
+| Task 7 | Natural Sugar                 | 5          | 956            | 239           |
+| Task 8 | Carlos Javier Atomic Model    | 5          | 956            | 240           |
+| Task 9 | Dry Ice Model                 | 3          | 1111           | 278           |
 
 ---
 
