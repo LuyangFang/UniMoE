@@ -3,6 +3,13 @@
 **This repository contains code for the paper "Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts".**
 
 
+
+### Overview Diagram
+Below is a visual representation of the GW-SMM overview:
+
+![workflow](./workflow.png)
+
+
 ## Usage Example
 ### Example Teacher Fine-tuning Usage:
 python finetune_gptoss20b_lora_jsonl_cls.py \
@@ -46,7 +53,7 @@ This research utilizes pre-existing datasets, incorporating responses from middl
 
 The assessment tasks in this study align with the NGSS middle school-level expectations: students must analyze and interpret data to determine whether substances possess identical properties [3]. This expectation requires students to employ knowledge of the structure and properties of matter, chemical reactions (DCIs), and patterns (CCC) to effectively analyze and interpret data (SEP).
 
-![Illustrative Multi-label Task: Gas-Filled Balloons](gas_filled_ballon.png)  
+![Illustrative Multi-label Task: Gas-Filled Balloons](./gas_filled_ballon.png)  
 *Figure: Illustrative Multi-label Task – Gas-Filled Balloons*
 
 A total of 1,200 students in grades 6–8 participated in this study. Middle school teachers across the U.S. invited their students to engage with open-ended NGSS-aligned science tasks [4]. After data cleaning, fewer than 1,200 responses remained per task (exact counts in the table below). Responses were randomly selected to form training, validation, and test sets for machine learning models. For privacy, all data was anonymized, and demographic details were unavailable. Nonetheless, due to the geographical diversity of participating teachers, the dataset is considered representative of the broader US middle school student population.
