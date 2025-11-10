@@ -47,7 +47,7 @@ python finetune_gptoss20b_lora_jsonl_cls.py \
     2> ./results/task1/train.err
 
 ### MTL_MOE Example:
-python mtl_moe_trainer.py --num_experts 4 --kd_weight 0.5 --load_balance_weight 0.01 --seed 42 --max_epochs 20 --patience 3 --data_dir '../PASTA_data/new_processed_data/' --output_dir './PASTA-Models/'
+python UniMoE_trainer.py --num_experts 4 --kd_weight 0.5 --load_balance_weight 0.01 --seed 42 --max_epochs 20 --patience 3 --data_dir '../PASTA_data/new_processed_data/' --output_dir './PASTA-Models/'
 
 
 ---
