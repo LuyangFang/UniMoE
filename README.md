@@ -6,6 +6,7 @@
 
 ## Overview
 
+UNIMOE-GUIDED addresses a central challenge in automated scoring of open-ended educational responses: real-world assessment systems often require maintaining many separate task-specific models, creating substantial burdens in storage, deployment, and scalability. To overcome this, UNIMOE-GUIDED introduces a single, compact multi-task scorer built on a shared encoder, a task-aware Mixture-of-Experts (MoE) layer, and lightweight task heads that preserve rubric fidelity across diverse science-assessment tasks. The approach further integrates knowledge distillation from strong per-task teacher models, enabling the student model to absorb expert task-specific behavior while remaining efficient and easy to deploy. This design provides a unified, extensible framework for resource-constrained educational settings, supporting reliable scoring and rapid adaptation to new tasks without the overhead of maintaining many individual models.
 
 **Workflow:**
 Below is a visual representation of the GW-SMM overview:
