@@ -2,13 +2,17 @@
 
 **This repository contains code for the paper "Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts".**
 
+---
+
+## Overview
 
 
-### Overview Diagram
+**Workflow:**
 Below is a visual representation of the GW-SMM overview:
 
 ![workflow](./workflow.png)
 
+---
 
 ## Usage Example
 ### Example Teacher Fine-tuning Usage:
@@ -45,6 +49,7 @@ python finetune_gptoss20b_lora_jsonl_cls.py \
 python mtl_moe_trainer.py --num_experts 4 --kd_weight 0.5 --load_balance_weight 0.01 --seed 42 --max_epochs 20 --patience 3 --data_dir '../PASTA_data/new_processed_data/' --output_dir './PASTA-Models/'
 
 
+---
 
 
 ## Dataset Overview
